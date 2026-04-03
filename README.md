@@ -5,5 +5,8 @@
 ## Subheader
 
 Watch tutorial on youtube 
-waryaa
+
+## Local development
+
+1. index.html in your browser
 
